@@ -3,7 +3,7 @@
 </h2>
 <a href="https://images.app.goo.gl/D2WCfysoTWD6r3CeA"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center"><a href="https://t.me/II_BAD_BBY_II"><img src="https://telegra.ph/file/3df11bcade4a69a6335f2.jpg"></a></p>
+<p alig="center"><a href="https://t.me/+8e069w8tPGQ0NTU1"><img src="https://telegra.ph/file/3c40e1d6a20027f4aba70.jpg"></a></p>
 
 <a href="https://youtu.be/0hP_JY_APq0?si=md6qsZQP2UaQ-SPn"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
