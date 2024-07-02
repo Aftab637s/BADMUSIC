@@ -7,19 +7,19 @@
 
 <a href="https://youtu.be/0hP_JY_APq0?si=md6qsZQP2UaQ-SPn"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
+♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️♥️
         •━━━━━━━━•••━━━━━━━━•
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=MADE+BYE+ᴀꜰᴛᴀʙ%E2%9D%A4%EF%B8%8F"> 
 
         •━━━━━━━━•••━━━━━━━━•
+❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️❄️
 
-
-<h3 align="center">
+<h3 align="https://t.me/aliza_ansari_chat">
     ─「 ❣👇sᴘᴇᴄɪᴀʟ❣️ᴛᴀɢᴀʟʟ👇 」─   
 </h3>
 
-<h3 align="center">
+<h3 align="https://t.me/freinds_groupp">
     ─「 ❣️ᴛᴇʟᴇɢʀᴀᴘʜ ʟɪɴᴋ❣️ 」─   
 </h3>
 
@@ -27,6 +27,6 @@
     ─「 ❣️ʙᴀss sᴏɴɢ❣️ 」─   
 </h3>
 
-<h3 align="center">
+<h3 align="@Section_144">
     ─「 ❣️sʜᴀʏᴀʀɪ❣️ 」─   
 </h3>
