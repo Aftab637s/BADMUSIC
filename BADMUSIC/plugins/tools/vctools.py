@@ -3,16 +3,16 @@ from pyrogram.types import Message
 from BADMUSIC import app
 from config import OWNER_ID
 # vc on
-@app.on_message(filters.video_chat_started)
+@app.on_message(filters.ᴀᴩɴᴀ_ᴛɪᴍᴇ_ᴀɢʏᴀ)
 async def brah(_, msg):
-       await msg.reply("😍ᴠᴏɪᴄᴇ ᴄʜᴀᴛ sᴛᴀʀᴛᴇᴅ🥳")
+       await msg.reply("😍ᴀʙ ᴀʏᴇɢᴀ ᴍᴀᴢᴀᴀ 😍")
 # vc off
-@app.on_message(filters.video_chat_ended)
+@app.on_message(filters.ᴀᴩɴᴀ_ᴛɪᴍᴇ_ᴄʜᴀʟᴀ_ɢʏᴀ)
 async def brah2(_, msg):
-       await msg.reply("**😕ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴇɴᴅᴇᴅ💔**")
+       await msg.reply("**😕ᴀʀᴇ ᴠᴄ ᴋʏᴜ ʙᴀɴᴅ ᴋᴀʀ ᴅɪ **")
 
 # invite members on vc
-@app.on_message(filters.video_chat_members_invited)
+@app.on_message(filters.ᴀʀᴇ_ᴀᴊᴀ_ʏᴀᴀʀ_ᴠᴄ_ᴩᴇʀ_ᴛᴇʀᴇ_ʙɪɴᴀ_ᴍᴀɴ_ɴᴀʜɪ_ʟᴀɢ_ʀʜᴀ🫰🏻🫰🏻)
 async def brah3(app :app, message:Message):
            text = f"{message.from_user.mention} 👈ɪɴᴠɪᴛᴇᴅᴛ ᴛᴏ👉 "
            x = 0
@@ -23,7 +23,7 @@ async def brah3(app :app, message:Message):
              except Exception:
                pass
            try:
-             await message.reply(f"{text} 🤭🤭")
+             await message.reply(f"{text} 👌🏻👌🏻")
            except:
              pass
 
