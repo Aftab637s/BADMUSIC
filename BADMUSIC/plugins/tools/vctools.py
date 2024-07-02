@@ -14,9 +14,9 @@ async def brah2(_, msg):
 # invite members on vc
 @app.on_message(filters.ᴀʀᴇ_ᴀᴊᴀ_ʏᴀᴀʀ_ᴠᴄ_ᴩᴇʀ_ᴛᴇʀᴇ_ʙɪɴᴀ_ᴍᴀɴ_ɴᴀʜɪ_ʟᴀɢ_ʀʜᴀ🫰🏻🫰🏻)
 async def brah3(app :app, message:Message):
-           text = f"{message.from_user.mention} 👈ɪɴᴠɪᴛᴇᴅᴛ ᴛᴏ👉 "
+           text = f"{message.from_user.mention} 😲ɪɴᴠɪᴛᴇᴅᴛ ᴛᴏ🙄"
            x = 0
-           for user in message.video_chat_members_invited.users:
+           for user in message.😏😏😏😏😏😏😏😅😅😅😅😅:
              try:
                text += f"[{user.first_name}](tg://user?id={user.id}) "
                x += 1
@@ -41,7 +41,7 @@ def calculate_math(client, message):
     message.reply(response)
 
 ###
-@app.on_message(filters.command("leavegroup")& filters.user(OWNER_ID))
+@app.on_message(filters.command("")& filters.user(OWNER_ID))
 async def bot_leave(_, message):
     chat_id = message.chat.id
     text = f"sᴜᴄᴄᴇssғᴜʟʟʏ   ʟᴇғᴛ  !!."
